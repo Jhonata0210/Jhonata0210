@@ -7,7 +7,8 @@ Hello, I'm Jhonata and I'm a beginner in programming. I'm starting with HTML, CS
 - 🌱 I'm learning for the time being, the basics of programming (HTML, CSS, JS ...)
 
 - 📫 How to reach me: 
-My git: 
+My git: https://github.com/Jhou0210
+my whatssapp: +55 11 983962606
 
 - 😄 Pronouns: Jhou
 
