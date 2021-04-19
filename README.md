@@ -4,15 +4,15 @@
 
 Hello, I'm Jhonata and I'm a beginner in programming. I'm starting with HTML, CSS and JS and I want to learn a lot more!
 
-- 🌱 I'm learning for the time being, the basics of programming (HTML, CSS, JS ...)
+- _🌱 I'm learning for the time being, the basics of programming (HTML, CSS, JS ...)_
 
-- 📫 How to reach me: 
+- _📫 How to reach me_
  * My git: https://github.com/Jhou0210
  * My whatsapp: +55 11983962606
 
-- 😄 Pronouns: Jhou
+- _😄 Pronouns_ Jhou
 
-- ⚡ Fun fact: 
+- _⚡ Fun fact_: 
  * I'm 15 years old
  *  I'm from Brazil
  *  I have the dream of living a little in another country
