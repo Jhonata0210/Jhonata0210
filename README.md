@@ -18,6 +18,6 @@ My git:
  *  specialize in Architecture and try to reconcile my two passions, Architecture and Programming
 -->
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 [![Jhou0210 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhou0210)](https://github.com/Jhou0210/github-readme-stats)
