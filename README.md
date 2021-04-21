@@ -9,6 +9,7 @@ Hello, I'm Jhonata and I'm a beginner in programming. I'm starting with HTML, CS
 *📫 How to reach me*
  * My git: https://github.com/Jhou0210
  * My whatsapp: +55 11983962606
+ * My Twitter: https://twitter.com/JhouNerd02
 
 *😄 Pronouns: Jhou*
 
