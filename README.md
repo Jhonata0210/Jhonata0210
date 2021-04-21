@@ -10,9 +10,9 @@ Hello, I'm Jhonata and I'm a beginner in programming. I'm starting with HTML, CS
  * My git: https://github.com/Jhou0210
  * My whatsapp: +55 11983962606
 
-*😄 Pronouns_ Jhou*
+*😄 Pronouns: Jhou*
 
-- _⚡ Fun fact_: 
+*⚡ Fun fact*
  * I'm 15 years old
  *  I'm from Brazil
  *  I have the dream of living a little in another country
