@@ -21,6 +21,7 @@ Hello, I'm Jhonata and I'm a beginner in programming. I'm starting with HTML, CS
  *  specialize in Architecture and try to reconcile my two passions, Architecture and Programming
 -->
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+
 
 [![Jhou0210 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhou0210)](https://github.com/Jhou0210/github-readme-stats)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jhou0210)](https://github.com/Jhou0210)
