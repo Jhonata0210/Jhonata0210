@@ -6,11 +6,6 @@ Hello, I'm Jhonata and I'm a beginner in programming. I'm starting with HTML, CS
 
  *🌱 I'm learning for the time being, the basics of programming (HTML, CSS, JS ...)
 
-### 📫 How to reach me
- * My git: https://github.com/Jhou0210
- * My whatsapp: +55 11983962606
- * My Twitter: https://twitter.com/JhouNerd02
-
 ### 😄 Pronouns: 
   * Jhou
 
