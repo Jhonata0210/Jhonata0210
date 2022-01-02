@@ -6,9 +6,6 @@ Hello, I'm Jhonata and I'm a beginner in programming. I'm starting with HTML, CS
 
  *🌱 I'm learning for the time being, the basics of programming (HTML, CSS, JS ...)
 
-### 😄 Pronouns: 
-  * Jhou
-
 ### ⚡ Fun fact
  * I'm 15 years old
  *  I'm from Brazil
